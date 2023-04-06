@@ -1,9 +1,9 @@
 <?php
      
-   define('host', 'sql207.epizy.com');
-   define('dbname', 'epiz_33634023_docs');
-   define('user', 'epiz_33634023');
-   define('pass', 'PCC0XJoVM0C');
+   define('host', 'localhost');
+   define('dbname', '');
+   define('user', 'root');
+   define('pass', '');
 
    try {
 
